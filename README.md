@@ -72,7 +72,7 @@ Through this assignment, I learned:
 
 The repository includes a screen recording demonstrating the completed form and its implemented logic.
 
-**Video:** `Assignment2_Video_GitHub.mp4`
+Video: [🎥 Watch the demonstration video](./Assignment2_Video_GitHub.mp4)
 
 ## 📋 Assignment Details
 
